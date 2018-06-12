@@ -1,1 +1,1 @@
-The decentralized p2p betting platform.
+Light-weight blockchain client written in node.
